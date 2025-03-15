@@ -1,4 +1,4 @@
-# [Prototype](https://www.figma.com/proto/Zf6ucyS94JkTrmuoybwpVR/Samsung-Camera-App-Feature?node-id=303-184&p=f&t=qK3nlvRvsDHn1D89-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1)
+# [Prototype](https://www.figma.com/proto/Zf6ucyS94JkTrmuoybwpVR/Samsung-Camera-App-Feature?node-id=3-3&t=UfFNdaGySeUU5b3j-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=3%3A3)
 
 ## Feature Introduction: Case-based Camera Pro Settings
 
