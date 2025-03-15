@@ -198,7 +198,7 @@ def ParseCommand(userInput):
 
 
 ~~~
-⸻
+
 
 ### ApplyCameraSettings(settings: CameraSettings)
 1.	Access the camera API
@@ -214,7 +214,6 @@ def ApplyCameraSettings(settings):
 ~~~
 
 
-⸻
 
 ### AdjustBrightness(currentSettings: CameraSettings, direction: str) -> CameraSettings
 
@@ -239,7 +238,7 @@ def AdjustBrightness(currentSettings, direction):
 
 ~~~
 
-⸻
+
 
 ### Main Program
 
