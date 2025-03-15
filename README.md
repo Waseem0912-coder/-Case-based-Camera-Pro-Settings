@@ -1,4 +1,4 @@
-
+[embed]https://github.com/Waseem0912-coder/-Case-based-Camera-Pro-Settings/blob/main/Samsung%20Camera%20App%20Feature%20(1).pdf[/embed]
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
