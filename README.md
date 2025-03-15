@@ -241,7 +241,7 @@ def AdjustBrightness(currentSettings, direction):
 
 ⸻
 
-###Main Program
+### Main Program
 
 
 ~~~
