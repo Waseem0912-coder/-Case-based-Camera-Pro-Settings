@@ -2,20 +2,20 @@
 
 # Table of Contents
 
-1. [Prototype]
-2. [Feature introduction: Case-based Camera Pro Settings]
-3. [Underlying technologies]
-4. [Research leveraged]
-5. [Implementation steps]
-6. **[Flowchart]**
-7. [Pseudocode and logic]
-8. [Data structures]
-9. [Functions]
-10. [Main program]
-11. [Camera API considerations]
-12. [Future improvements]
-13. [View design]
-14. [License]
+1. Prototype
+2. Feature introduction: Case-based Camera Pro Settings
+3. Underlying technologies
+4. Research leveraged
+5. Implementation steps
+6. **Flowchart**
+7. Pseudocode and logic
+8. Data structures
+9. Functions
+10. Main program
+11. Camera API considerations
+12. Future improvements
+13. View design
+14. License
 
 
 ## Feature Introduction: Case-based Camera Pro Settings
