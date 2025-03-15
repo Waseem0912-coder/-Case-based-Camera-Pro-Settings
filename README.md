@@ -76,7 +76,7 @@ The phone instantly translates these natural language descriptions into precise 
 This feature empowers Samsung device users—regardless of expertise level—to effortlessly achieve professional-quality photography through intuitive interactions.
 
 
-[View PDF](./Design_Final.pdf)
+[View Design](./Design_Final.pdf)
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
