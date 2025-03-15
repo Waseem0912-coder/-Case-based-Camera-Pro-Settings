@@ -1,4 +1,4 @@
-[Design] (Samsung Camera App Feature (1).pdf)
+[Design](Samsung Camera App Feature (1).pdf)
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
