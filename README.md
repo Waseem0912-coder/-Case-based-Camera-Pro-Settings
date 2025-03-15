@@ -1,4 +1,4 @@
-[embed] "Samsung Camera App Feature (1).pdf" [/embed]
+[Design] (Samsung Camera App Feature (1).pdf)
 
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
