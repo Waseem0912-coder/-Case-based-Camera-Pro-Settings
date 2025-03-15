@@ -10,7 +10,7 @@ The Case-based Camera Pro Settings feature enables users to intuitively achieve 
 
 **Example Scenario:**  
 A user preparing to photograph a sunset scene could simply say:
-- *"Make it more yellow,"*
+- *"Make the stars pop out more,"*
 - *"Focus more on the background,"*
 - *"Capture the sun's bright light without distorting nearby objects,"*
 - *"Focus on the left corner where the person is standing."*  
